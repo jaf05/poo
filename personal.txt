@@ -1,0 +1,9 @@
+1;Mercedes;Ricalde;merrical;12345;Enfermero
+2;Juan;Melendez;juanm;12345;Enfermero
+3;Claudia;Mariñas;claudiam;12345;Enfermero
+4;Angel;Limache;angell;12345;Doctor
+5;Denis;Baltazar;denisb;12345;Doctor
+6;Orlando;Rondoño;orlandor;12345;Administrador
+7;Jafet;Canepa;jafetc;12345;Doctor
+8;Yajaira;Madrid;yajairam;13245;Administrador
+9;Martha;Alfaro;marthaa;12345;Enfermero
